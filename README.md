@@ -1,3 +1,3 @@
-# CloningKAKAO
- First Clone
-Kako First Desktop Cloning Project;
+# CloningKAKAO 2020 Update
+
+HTML + CSS only.
